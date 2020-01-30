@@ -1,0 +1,5 @@
+I used jupyter notebook. I ran everything in Google Colab.
+
+1) To run first part. Just run every cell
+
+2) To run second part. Just run every cell of the main part. You need either upload file city.csv ("my version for video with English names") or to have it in the same folder.
